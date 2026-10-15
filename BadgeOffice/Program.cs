@@ -6,8 +6,6 @@
 * Description: Builds a students badge from name, two random assignments, and the walking distance to a first class 
 */
 
-using System.Reflection.Emit;
-using System.Runtime.CompilerServices;
 
 Random rng = new Random();
 
